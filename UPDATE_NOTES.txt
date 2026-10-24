@@ -1,0 +1,1 @@
+Changes: Music control moved into Celebration Details (no floating overlay); music pauses on background/tab switch/browser close and resumes only when manually tapped; Navigate to Venue button and Google Maps link added. Upload index.html to GitHub to apply changes. Keep music-box-waltz.mp3 already in GitHub.
