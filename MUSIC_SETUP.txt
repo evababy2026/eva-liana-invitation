@@ -1,0 +1,9 @@
+MUSIC BOX WALTZ - ONE-TIME SETUP
+
+1. Download the free MP3 from https://pixabay.com/music/lullabies-music-box-waltz-163673/
+2. Rename the downloaded MP3 to music-box-waltz.mp3
+3. Upload music-box-waltz.mp3 alongside index.html, door-floral.png, and share-preview.jpg to your GitHub repository.
+4. The music starts after the guest taps to open the floral doors, loops softly, and can be paused or resumed with the music button.
+
+NOTE: The MP3 is NOT included in this ZIP because Pixabay's file download could not be retrieved here. The button cannot play music until you add it.
+The existing RSVP form and November 5 preview metadata remain unchanged.
